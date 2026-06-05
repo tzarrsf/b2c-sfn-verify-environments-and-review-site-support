@@ -1,0 +1,16 @@
+PUBLIC__app__commerce__sites='[
+  {
+    "id": "MarketStreet",
+    "defaultLocale": "en-GB",
+    "defaultCurrency": "GBP",
+    "supportedLocales": [
+      {
+        "id": "en-GB",
+        "preferredCurrency": "GBP"
+      }
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ]
+  }
+]'
