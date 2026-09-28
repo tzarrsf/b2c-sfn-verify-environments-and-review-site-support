@@ -1,1 +1,1 @@
-PUBLIC__app__commerce__sites=[{"id": "MarketStreet","defaultLocale": "en-GB","defaultCurrency": "GBP","supportedLocales": [{"id": "en-GB","preferredCurrency": "GBP"}],"supportedCurrencies": ["GBP"]}]
+PUBLIC__app__commerce__sites=[{"cookies":{"domain":null},"id":"MarketStreet","alias":"Sites-MarketStreet-Site","name":"Sites-MarketStreet-Site","defaultLocale":"en-US","defaultCurrency":"USD","supportedLocales":[{"id":"en-US","preferredCurrency":"USD"},{"id":"en-GB","preferredCurrency":"USD"}],"supportedCurrencies":["USD","GBP"]}]
